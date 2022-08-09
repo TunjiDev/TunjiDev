@@ -7,7 +7,7 @@ I'm a Frontend Software Engineer. I'm also quite passionate about Backend Engine
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) and [Tech1Million](https://app.tech1m.com) Class of 2022.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) and Tech1Million[Frontend Engineering Cohort](https://app.tech1m.com) Class of 2022.
 - 🌱 I’m currently learning Reactjs, and other Amazing Frontend technologies.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
